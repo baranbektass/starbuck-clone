@@ -4,4 +4,4 @@ Bu projede html,css kullanılmıştır.
 
 <h2>Ekran görüntüsü</h2>
 
-![](ekran.gif)
+![](starbucks.gif)
